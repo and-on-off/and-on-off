@@ -17,13 +17,9 @@
 
 ---
 
-## 🏅 Badges & Tools
+## 🏅 Languages & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SoftUni](https://img.shields.io/badge/SoftUni-003366?style=for-the-badge&logo=google-classroom&logoColor=white)
+![](https://skillicons.dev/icons?i=python,javascript,html,css,pycharm,vscode,github,git,discord) <br>
 
 ---
 
