@@ -12,7 +12,7 @@
 ## 🐍 About Me
 - 🎓 Currently learning Python at **SoftUni**
 - 🔧 Exploring the world of programming through hands-on projects
-- 📍 Based in Bulgaria.
+- 📍  Based in Bulgaria
 - 🎮 I love gaming, tech, and everything creative
 
 ---
